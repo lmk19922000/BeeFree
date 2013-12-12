@@ -1,0 +1,24 @@
+Testsuite: com.blogspot.the3cube.beefree.test.BlockoutCommandTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.067 sec
+------------- Standard Output ---------------
+response[0]:today blockout is added.
+expected:today blockout is added.
+response[1]:holiday blockout is added.
+expected:holiday blockout is added.
+response[2]:formula1 blockout is added.
+expected:formula1 blockout is added.
+response[3]:tomorrow blockout is added.
+expected:tomorrow blockout is added.
+response[4]:examination blockout is added.
+expected:examination blockout is added.
+response[0]:Blockout by the name of, today have been deleted.
+Blockout by the name of, holiday have been deleted.
+Blockout by the name of, formula1 have been deleted.
+expected:Blockout by the name of, today have been deleted.
+Blockout by the name of, holiday have been deleted.
+Blockout by the name of, formula1 have been deleted.
+response[1]:The command you entered is invalid. Please refer to "help blockout".
+expected:The command you entered is invalid. Please refer to "help blockout".
+------------- ---------------- ---------------
+
+Testcase: test took 0.054 sec

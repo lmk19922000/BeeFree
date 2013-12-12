@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Author: Chua Jie Sheng
+Email:	chuajiesheng@gmail.com
+-->
+<project name="BeeFree" default="all" basedir=".">
+	<description>
+	        build file for BeeFree
+	    </description>
+	<property name="full-compile" value="true" />
+	<property name="version" value="v0.2" />
+	<tstamp>
+		<format property="build.time" pattern="yyyy-MM-dd HH:mm:ss" />
+	</tstamp>
+
+	<!-- Set global properties for this build -->
+	<property name="build" location="bin" />
+	<property name="dist" location="dist" />
+	<property name="lib" location="lib" />
+	<property name="img" location="img" />
+	<property name="report" location="report" />
+	<property name="src" location="src" />
+
+	<property name="main" value="com.blogspot.the3cube.beefree.BeeFree" />
+
+
+
+	<!-- Include all libraries -->
+	<path id="classpath">
+		<fileset dir="lib">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<path id="application" location="${dist}/${ant.project.name}.jar" />
+
+	<target name="check" depends="cond-if, cond-else">
+	</target>
+	
+	<target name="cond-if" if="${build.32}">
+		<echo message="building 32bit" />
+	</target>
+
+	<target name="cond-else" unless="${build.32}">
+	  <echo message="building 64bit"/>
+	</target>
+
+	<target name="clean" depends="check" description="clean up">
+		<delete dir="${build}" />
+		<delete dir="${dist}" />
+		<delete dir="${report}" />
+	</target>
+
+	<target name="init" depends="clean" description="make the folder required">
+		<!-- Create the time stamp -->
+		<tstamp />
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${build}" />
+		<!-- Create the distribution directory -->
+		<mkdir dir="${dist}" />
+		<!-- Create the report directory -->
+		<mkdir dir="${report}" />
+	</target>
+
+	<target name="compile" depends="init" description="compile the source">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac source="1.6" target="1.6" srcdir="${src}" destdir="${build}" includeAntRuntime="false" debug="true">
+			<!-- Require reference to classpath else unable to rebuild -->
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="copy" depends="compile, copy-if, copy-else" description="copy libraries and dependencies">
+
+	</target>
+	
+	<target name="copy-if" if="${build.32}">
+		<!-- Contains all library dependencies -->
+		<mkdir dir="${dist}/lib" />
+		<mkdir dir="${dist}/img" />
+		<copy todir="${dist}/lib" filtering="off">
+			<!-- Remove the directory hierarchy: lib contains no subdirectories -->
+			<flattenmapper />
+			<fileset dir="${lib}" includes="**/*.jar">
+				<include name="**/*jar"/>
+				<exclude name="**/*x86_64*.jar"/>
+			</fileset>
+			<fileset dir="${lib}" includes="**/*.dll" />
+		</copy>
+		<copy todir="${dist}/img" filtering="off">
+			<!-- Remove the directory hierarchy: lib contains no subdirectories -->
+			<flattenmapper />
+			<fileset dir="${img}" includes="**/*.*" />
+		</copy>
+	</target>
+
+	<target name="copy-else" unless="${build.32}">
+		<!-- Contains all library dependencies -->
+		<mkdir dir="${dist}/lib" />
+		<mkdir dir="${dist}/img" />
+
+		<copy todir="${dist}/lib" filtering="off">
+			<!-- Remove the directory hierarchy: lib contains no subdirectories -->
+			<flattenmapper />
+			<fileset dir="${lib}" includes="**/*.jar">
+				<include name="**/*jar"/>
+				<exclude name="**/*x86_32*.jar"/>
+			</fileset>
+			<fileset dir="${lib}" includes="**/*.dll" />
+		</copy>
+		<copy todir="${dist}/img" filtering="off">
+			<!-- Remove the directory hierarchy: lib contains no subdirectories -->
+			<flattenmapper />
+			<fileset dir="${img}" includes="**/*.*" />
+		</copy>
+	</target>
+	
+	<target name="jar" depends="copy" description="create jar and MANIFEST.MF">
+		<!-- Create a property containing all .jar files, prefix lib/, and seperated with a space -->
+		<pathconvert property="libs.project" pathsep=" ">
+			<mapper>
+				<chainedmapper>
+					<!-- Remove absolute path -->
+					<flattenmapper />
+					<!-- Add lib/ prefix -->
+					<globmapper from="*" to="lib/*" />
+				</chainedmapper>
+			</mapper>
+
+			<path>
+				<!-- lib.home contains all jar files, in several subdirectories -->
+				<fileset dir="${dist}/lib">
+					<include name="**/*.jar" />
+				</fileset>
+			</path>
+		</pathconvert>
+
+		<!-- Put everything in ${build} into the MyProject-${DSTAMP}.jar file -->
+		<jar jarfile="${dist}/${ant.project.name}.jar" basedir="${build}">
+			<!-- Define MANIFEST.MF -->
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Main-Class" value="${main}" />
+				<attribute name="Specification-Version" value="${version}" />
+				<attribute name="Specification-Title" value="${ant.project.name}" />
+				<attribute name="Implementation-Version" value="${version}" />
+				<attribute name="Implementation-Title" value="${ant.project.name}" />
+
+				<!-- Finally, use the magically generated libs path -->
+				<attribute name="Class-Path" value="${libs.project}" />
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="test" depends="jar">
+		<junit printsummary="yes">
+			<!-- All classes not in the JRE (i.e. all non-system classes) will have assertions turned on. -->
+			<assertions>
+				<enable />
+			</assertions>
+			<classpath>
+				<path refid="classpath" />
+				<path refid="application" />
+			</classpath>
+			<formatter type="plain" />
+			<batchtest fork="yes" todir="${report}">
+				<fileset dir="${src}" includes="**/*Test.java" />
+			</batchtest>
+		</junit>
+	</target>
+
+	<target name="javadoc" description="generate javadoc" depends="test">
+		<javadoc use="true" author="true" version="true" access="private" sourcepath="src" packagenames="*" destdir="${build}/javadoc" windowtitle="${ant.project.name} ${version}" noqualifier="java.*:javax.*:com.sun.*" linksource="true">
+			<classpath refid="classpath" />
+			<link href="http://download.oracle.com/javase/6/docs/api/" />
+			<link href="http://help.eclipse.org/helios/topic/org.eclipse.platform.doc.isv/reference/api/" />
+			<header>
+				<![CDATA[<h1>${ant.project.name} ${version}</h1>]]>
+			</header>
+			<tag name="programmer" scope="all" description="Programmer:" />
+			<tag name="start" scope="all" description="Start From:" />
+			<tag name="finish" scope="all" description="To:" />
+			<tag name="reviewer" scope="all" description="Reviewer:" />
+			<tag name="reviewdate" scope="all" description="Review Date:" />
+		</javadoc>
+	</target>
+	
+	<target name="run" depends="javadoc">
+		<java jar="${dist}/${ant.project.name}.jar" fork="true">
+			<!-- All classes not in the JRE (i.e. all non-system classes) will have assertions turned on. -->
+			<assertions>
+				<enable />
+			</assertions>
+		</java>
+	</target>
+	
+	<target name="all" description="create all build artifacts" depends="check, clean, init, compile, copy, jar, test, javadoc">
+		<echo>Finished creating all build artifacts.</echo>
+	</target>
+</project>

@@ -1,0 +1,31 @@
+7-11-2011  3:34 [LoggerTest][testDebug] debug message
+8-11-2011 16:14 [AddCommand][constructCommand] isFormalFormat_: false
+8-11-2011 16:14 [AddCommand][run] addSuccessful: true
+8-11-2011 16:14 [AddCommand][run] isBlocked: false
+8-11-2011 16:14 [AddCommand][constructCommand] isFormalFormat_: false
+8-11-2011 16:14 [AddCommand][run] addSuccessful: true
+8-11-2011 16:14 [AddCommand][run] isBlocked: false
+8-11-2011 16:14 [AddCommand][constructCommand] isFormalFormat_: false
+8-11-2011 16:14 [AddCommand][run] addSuccessful: true
+8-11-2011 16:14 [AddCommand][run] isBlocked: false
+8-11-2011 16:14 [AddCommand][constructCommand] isFormalFormat_: false
+8-11-2011 16:14 [AddCommand][run] addSuccessful: true
+8-11-2011 16:14 [AddCommand][run] isBlocked: false
+8-11-2011 16:15 [AddCommand][constructCommand] isFormalFormat_: false
+8-11-2011 16:15 [AddCommand][run] addSuccessful: true
+8-11-2011 16:15 [AddCommand][run] isBlocked: false
+8-11-2011 16:15 [AddCommand][constructCommand] isFormalFormat_: false
+8-11-2011 16:15 [AddCommand][run] addSuccessful: true
+8-11-2011 16:15 [AddCommand][run] isBlocked: false
+8-11-2011 16:15 [AddCommand][constructCommand] isFormalFormat_: false
+8-11-2011 16:15 [AddCommand][run] addSuccessful: true
+8-11-2011 16:15 [AddCommand][run] isBlocked: false
+24-11-2013 17:34 [DeleteCommand][constructCommand] isCorrectCommand_: true
+24-11-2013 17:34 [DeleteCommand][getDeleteTasks] invalidTaskIDs: 
+24-11-2013 17:37 [BeeFreeGUI][jIntelInit] loaded JIntellitype64 onJava HotSpot(TM) 64-Bit Server VM
+12-12-2013  0:41 [BeeFreeGUI][jIntelInit] loaded JIntellitype64 onJava HotSpot(TM) 64-Bit Server VM
+12-12-2013 12:32 [DeleteCommand][constructCommand] isCorrectCommand_: false
+12-12-2013 12:32 [BeeFreeGUI][jIntelInit] loaded JIntellitype64 onJava HotSpot(TM) 64-Bit Server VM
+12-12-2013 12:34 [AddCommand][constructCommand] isFormalFormat_: false
+12-12-2013 12:34 [AddCommand][run] addSuccessful: true
+12-12-2013 12:34 [AddCommand][run] isBlocked: false

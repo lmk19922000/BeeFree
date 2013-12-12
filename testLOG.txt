@@ -1,0 +1,702 @@
+27-9-2011 23:22 - [LoggerTest][testError] error message
+27-9-2011 23:22 - [LoggerTest][testDebug] debug message
+27-9-2011 23:30 - [LoggerTest][testError] error message
+27-9-2011 23:30 - [LoggerTest][testDebug] debug message
+27-9-2011 23:37 - [LoggerTest][testError] error message
+27-9-2011 23:37 - [LoggerTest][testDebug] debug message
+27-9-2011 23:41 - [LoggerTest][testError] error message
+27-9-2011 23:41 - [LoggerTest][testDebug] debug message
+27-9-2011 23:42 - [LoggerTest][testError] error message
+27-9-2011 23:42 - [LoggerTest][testDebug] debug message
+27-9-2011 23:45 - [LoggerTest][testError] error message
+27-9-2011 23:45 - [LoggerTest][testDebug] debug message
+27-9-2011 23:46 - [LoggerTest][testError] error message
+27-9-2011 23:46 - [LoggerTest][testDebug] debug message
+27-9-2011 23:55 - [LoggerTest][testError] error message
+27-9-2011 23:55 - [LoggerTest][testDebug] debug message
+27-9-2011 23:57 - [LoggerTest][testError] error message
+27-9-2011 23:57 - [LoggerTest][testDebug] debug message
+27-9-2011 23:58 - [LoggerTest][testError] error message
+27-9-2011 23:58 - [LoggerTest][testDebug] debug message
+28-9-2011  0: 2 - [LoggerTest][testError] error message
+28-9-2011  0: 2 - [LoggerTest][testDebug] debug message
+28-9-2011  0: 6 - [LoggerTest][testError] error message
+28-9-2011  0: 6 - [LoggerTest][testDebug] debug message
+28-9-2011  0:46 - [LoggerTest][testError] error message
+28-9-2011  0:46 - [LoggerTest][testDebug] debug message
+28-9-2011  0:53 - [LoggerTest][testError] error message
+28-9-2011  0:53 - [LoggerTest][testDebug] debug message
+28-9-2011  1:14 - [LoggerTest][testError] error message
+28-9-2011  1:14 - [LoggerTest][testDebug] debug message
+28-9-2011  1:19 - [LoggerTest][testError] error message
+28-9-2011  1:19 - [LoggerTest][testDebug] debug message
+28-9-2011  1:28 - [LoggerTest][testError] error message
+28-9-2011  1:28 - [LoggerTest][testDebug] debug message
+28-9-2011  1:32 - [LoggerTest][testError] error message
+28-9-2011  1:32 - [LoggerTest][testDebug] debug message
+28-9-2011  1:34 - [LoggerTest][testError] error message
+28-9-2011  1:34 - [LoggerTest][testDebug] debug message
+28-9-2011  1:43 - [LoggerTest][testError] error message
+28-9-2011  1:43 - [LoggerTest][testDebug] debug message
+28-9-2011  1:52 - [LoggerTest][testError] error message
+28-9-2011  1:52 - [LoggerTest][testDebug] debug message
+28-9-2011  1:54 - [LoggerTest][testError] error message
+28-9-2011  1:54 - [LoggerTest][testDebug] debug message
+28-9-2011  1:56 - [LoggerTest][testError] error message
+28-9-2011  1:56 - [LoggerTest][testDebug] debug message
+28-9-2011  2: 6 - [LoggerTest][testError] error message
+28-9-2011  2: 6 - [LoggerTest][testDebug] debug message
+28-9-2011  2: 7 - [LoggerTest][testError] error message
+28-9-2011  2: 7 - [LoggerTest][testDebug] debug message
+28-9-2011  2: 8 - [LoggerTest][testError] error message
+28-9-2011  2: 8 - [LoggerTest][testDebug] debug message
+28-9-2011  2:10 - [LoggerTest][testError] error message
+28-9-2011  2:10 - [LoggerTest][testDebug] debug message
+28-9-2011  2:16 - [LoggerTest][testError] error message
+28-9-2011  2:16 - [LoggerTest][testDebug] debug message
+28-9-2011  2:23 - [LoggerTest][testError] error message
+28-9-2011  2:23 - [LoggerTest][testDebug] debug message
+28-9-2011 10:34 - [LoggerTest][testError] error message
+28-9-2011 10:34 - [LoggerTest][testDebug] debug message
+28-9-2011 10:37 - [LoggerTest][testError] error message
+28-9-2011 10:37 - [LoggerTest][testDebug] debug message
+28-9-2011 10:46 - [LoggerTest][testError] error message
+28-9-2011 10:46 - [LoggerTest][testDebug] debug message
+28-9-2011 10:47 - [LoggerTest][testError] error message
+28-9-2011 10:47 - [LoggerTest][testDebug] debug message
+28-9-2011 10:49 - [LoggerTest][testError] error message
+28-9-2011 10:49 - [LoggerTest][testDebug] debug message
+28-9-2011 17: 8 - [LoggerTest][testError] error message
+28-9-2011 17: 8 - [LoggerTest][testDebug] debug message
+28-9-2011 17:10 - [LoggerTest][testError] error message
+28-9-2011 17:10 - [LoggerTest][testDebug] debug message
+28-9-2011 17:12 - [LoggerTest][testError] error message
+28-9-2011 17:12 - [LoggerTest][testDebug] debug message
+28-9-2011 17:15 - [LoggerTest][testError] error message
+28-9-2011 17:15 - [LoggerTest][testDebug] debug message
+28-9-2011 17:16 - [LoggerTest][testError] error message
+28-9-2011 17:16 - [LoggerTest][testDebug] debug message
+28-9-2011 17:17 - [LoggerTest][testError] error message
+28-9-2011 17:17 - [LoggerTest][testDebug] debug message
+28-9-2011 17:19 - [LoggerTest][testError] error message
+28-9-2011 17:19 - [LoggerTest][testDebug] debug message
+28-9-2011 17:21 - [LoggerTest][testError] error message
+28-9-2011 17:21 - [LoggerTest][testDebug] debug message
+28-9-2011 17:23 - [LoggerTest][testError] error message
+28-9-2011 17:23 - [LoggerTest][testDebug] debug message
+28-9-2011 17:24 - [LoggerTest][testError] error message
+28-9-2011 17:24 - [LoggerTest][testDebug] debug message
+28-9-2011 17:43 - [LoggerTest][testError] error message
+28-9-2011 17:43 - [LoggerTest][testDebug] debug message
+28-9-2011 17:47 - [LoggerTest][testError] error message
+28-9-2011 17:47 - [LoggerTest][testDebug] debug message
+28-9-2011 17:48 - [LoggerTest][testError] error message
+28-9-2011 17:48 - [LoggerTest][testDebug] debug message
+28-9-2011 17:52 - [LoggerTest][testError] error message
+28-9-2011 17:52 - [LoggerTest][testDebug] debug message
+28-9-2011 17:53 - [LoggerTest][testError] error message
+28-9-2011 17:53 - [LoggerTest][testDebug] debug message
+28-9-2011 17:55 - [LoggerTest][testError] error message
+28-9-2011 17:55 - [LoggerTest][testDebug] debug message
+28-9-2011 17:59 - [LoggerTest][testError] error message
+28-9-2011 17:59 - [LoggerTest][testDebug] debug message
+28-9-2011 17:59 - [LoggerTest][testError] error message
+28-9-2011 17:59 - [LoggerTest][testDebug] debug message
+28-9-2011 18: 0 - [LoggerTest][testError] error message
+28-9-2011 18: 0 - [LoggerTest][testDebug] debug message
+28-9-2011 18: 2 - [LoggerTest][testError] error message
+28-9-2011 18: 2 - [LoggerTest][testDebug] debug message
+28-9-2011 18: 3 - [LoggerTest][testError] error message
+28-9-2011 18: 3 - [LoggerTest][testDebug] debug message
+28-9-2011 18: 3 - [LoggerTest][testError] error message
+28-9-2011 18: 3 - [LoggerTest][testDebug] debug message
+28-9-2011 18: 6 - [LoggerTest][testError] error message
+28-9-2011 18: 6 - [LoggerTest][testDebug] debug message
+28-9-2011 18: 7 - [LoggerTest][testError] error message
+28-9-2011 18: 7 - [LoggerTest][testDebug] debug message
+28-9-2011 19:20 - [LoggerTest][testError] error message
+28-9-2011 19:20 - [LoggerTest][testDebug] debug message
+28-9-2011 19:22 - [LoggerTest][testError] error message
+28-9-2011 19:22 - [LoggerTest][testDebug] debug message
+30-9-2011 15:59 - [LoggerTest][testError] error message
+30-9-2011 15:59 - [LoggerTest][testDebug] debug message
+30-9-2011 16:30 - [LoggerTest][testError] error message
+30-9-2011 16:30 - [LoggerTest][testDebug] debug message
+2-10-2011 15:11 - [LoggerTest][testError] error message
+2-10-2011 15:11 - [LoggerTest][testDebug] debug message
+2-10-2011 15:16 - [LoggerTest][testError] error message
+2-10-2011 15:16 - [LoggerTest][testDebug] debug message
+2-10-2011 15:17 - [LoggerTest][testError] error message
+2-10-2011 15:17 - [LoggerTest][testDebug] debug message
+2-10-2011 15:51 - [LoggerTest][testError] error message
+2-10-2011 15:51 - [LoggerTest][testDebug] debug message
+2-10-2011 15:52 - [LoggerTest][testError] error message
+2-10-2011 15:52 - [LoggerTest][testDebug] debug message
+2-10-2011 15:54 - [LoggerTest][testError] error message
+2-10-2011 15:54 - [LoggerTest][testDebug] debug message
+2-10-2011 15:55 - [LoggerTest][testError] error message
+2-10-2011 15:55 - [LoggerTest][testDebug] debug message
+2-10-2011 16: 9 - [LoggerTest][testError] error message
+2-10-2011 16: 9 - [LoggerTest][testDebug] debug message
+2-10-2011 16:11 - [LoggerTest][testError] error message
+2-10-2011 16:11 - [LoggerTest][testDebug] debug message
+2-10-2011 16:12 - [LoggerTest][testError] error message
+2-10-2011 16:12 - [LoggerTest][testDebug] debug message
+2-10-2011 16:13 - [LoggerTest][testError] error message
+2-10-2011 16:13 - [LoggerTest][testDebug] debug message
+2-10-2011 16:16 - [LoggerTest][testError] error message
+2-10-2011 16:16 - [LoggerTest][testDebug] debug message
+2-10-2011 16:17 - [LoggerTest][testError] error message
+2-10-2011 16:17 - [LoggerTest][testDebug] debug message
+2-10-2011 16:18 - [LoggerTest][testError] error message
+2-10-2011 16:18 - [LoggerTest][testDebug] debug message
+2-10-2011 16:20 - [LoggerTest][testError] error message
+2-10-2011 16:20 - [LoggerTest][testDebug] debug message
+2-10-2011 16:21 - [LoggerTest][testError] error message
+2-10-2011 16:21 - [LoggerTest][testDebug] debug message
+2-10-2011 16:23 - [LoggerTest][testError] error message
+2-10-2011 16:23 - [LoggerTest][testDebug] debug message
+2-10-2011 16:28 - [LoggerTest][testError] error message
+2-10-2011 16:28 - [LoggerTest][testDebug] debug message
+2-10-2011 16:29 - [LoggerTest][testError] error message
+2-10-2011 16:29 - [LoggerTest][testDebug] debug message
+2-10-2011 16:30 - [LoggerTest][testError] error message
+2-10-2011 16:30 - [LoggerTest][testDebug] debug message
+2-10-2011 16:31 - [LoggerTest][testError] error message
+2-10-2011 16:31 - [LoggerTest][testDebug] debug message
+2-10-2011 16:33 - [LoggerTest][testError] error message
+2-10-2011 16:33 - [LoggerTest][testDebug] debug message
+2-10-2011 16:36 - [LoggerTest][testError] error message
+2-10-2011 16:36 - [LoggerTest][testDebug] debug message
+2-10-2011 16:38 - [LoggerTest][testError] error message
+2-10-2011 16:38 - [LoggerTest][testDebug] debug message
+2-10-2011 16:40 - [LoggerTest][testError] error message
+2-10-2011 16:40 - [LoggerTest][testDebug] debug message
+2-10-2011 16:44 - [LoggerTest][testError] error message
+2-10-2011 16:44 - [LoggerTest][testDebug] debug message
+2-10-2011 16:50 - [LoggerTest][testError] error message
+2-10-2011 16:50 - [LoggerTest][testDebug] debug message
+2-10-2011 16:54 - [LoggerTest][testError] error message
+2-10-2011 16:54 - [LoggerTest][testDebug] debug message
+2-10-2011 16:55 - [LoggerTest][testError] error message
+2-10-2011 16:55 - [LoggerTest][testDebug] debug message
+2-10-2011 16:56 - [LoggerTest][testError] error message
+2-10-2011 16:56 - [LoggerTest][testDebug] debug message
+2-10-2011 17:26 - [LoggerTest][testError] error message
+2-10-2011 17:26 - [LoggerTest][testDebug] debug message
+2-10-2011 17:27 - [LoggerTest][testError] error message
+2-10-2011 17:27 - [LoggerTest][testDebug] debug message
+2-10-2011 17:35 - [LoggerTest][testError] error message
+2-10-2011 17:35 - [LoggerTest][testDebug] debug message
+2-10-2011 17:36 - [LoggerTest][testError] error message
+2-10-2011 17:36 - [LoggerTest][testDebug] debug message
+2-10-2011 17:38 - [LoggerTest][testError] error message
+2-10-2011 17:38 - [LoggerTest][testDebug] debug message
+2-10-2011 17:39 - [LoggerTest][testError] error message
+2-10-2011 17:39 - [LoggerTest][testDebug] debug message
+2-10-2011 18:18 - [LoggerTest][testError] error message
+2-10-2011 18:18 - [LoggerTest][testDebug] debug message
+2-10-2011 18:24 - [LoggerTest][testError] error message
+2-10-2011 18:24 - [LoggerTest][testDebug] debug message
+2-10-2011 18:26 - [LoggerTest][testError] error message
+2-10-2011 18:26 - [LoggerTest][testDebug] debug message
+2-10-2011 18:34 - [LoggerTest][testError] error message
+2-10-2011 18:34 - [LoggerTest][testDebug] debug message
+2-10-2011 19: 9 - [LoggerTest][testError] error message
+2-10-2011 19: 9 - [LoggerTest][testDebug] debug message
+2-10-2011 19:29 - [LoggerTest][testError] error message
+2-10-2011 19:29 - [LoggerTest][testDebug] debug message
+2-10-2011 19:33 - [LoggerTest][testError] error message
+2-10-2011 19:33 - [LoggerTest][testDebug] debug message
+2-10-2011 19:34 - [LoggerTest][testError] error message
+2-10-2011 19:34 - [LoggerTest][testDebug] debug message
+2-10-2011 20:34 - [LoggerTest][testError] error message
+2-10-2011 20:34 - [LoggerTest][testDebug] debug message
+2-10-2011 20:43 - [LoggerTest][testError] error message
+2-10-2011 20:43 - [LoggerTest][testDebug] debug message
+2-10-2011 21: 2 - [LoggerTest][testError] error message
+2-10-2011 21: 2 - [LoggerTest][testDebug] debug message
+2-10-2011 21: 2 - [LoggerTest][testError] error message
+2-10-2011 21: 2 - [LoggerTest][testDebug] debug message
+2-10-2011 23: 5 - [LoggerTest][testError] error message
+2-10-2011 23: 5 - [LoggerTest][testDebug] debug message
+2-10-2011 23: 6 - [LoggerTest][testError] error message
+2-10-2011 23: 6 - [LoggerTest][testDebug] debug message
+2-10-2011 23: 8 - [LoggerTest][testError] error message
+2-10-2011 23: 8 - [LoggerTest][testDebug] debug message
+2-10-2011 23: 8 - [LoggerTest][testError] error message
+2-10-2011 23: 8 - [LoggerTest][testDebug] debug message
+2-10-2011 23:10 - [LoggerTest][testError] error message
+2-10-2011 23:10 - [LoggerTest][testDebug] debug message
+2-10-2011 23:11 - [LoggerTest][testError] error message
+2-10-2011 23:11 - [LoggerTest][testDebug] debug message
+2-10-2011 23:35 - [LoggerTest][testError] error message
+2-10-2011 23:35 - [LoggerTest][testDebug] debug message
+2-10-2011 23:40 - [LoggerTest][testError] error message
+2-10-2011 23:40 - [LoggerTest][testDebug] debug message
+2-10-2011 23:41 - [LoggerTest][testError] error message
+2-10-2011 23:41 - [LoggerTest][testDebug] debug message
+2-10-2011 23:43 - [LoggerTest][testError] error message
+2-10-2011 23:43 - [LoggerTest][testDebug] debug message
+2-10-2011 23:48 - [LoggerTest][testError] error message
+2-10-2011 23:48 - [LoggerTest][testDebug] debug message
+2-10-2011 23:49 - [LoggerTest][testError] error message
+2-10-2011 23:49 - [LoggerTest][testDebug] debug message
+2-10-2011 23:56 - [LoggerTest][testError] error message
+2-10-2011 23:56 - [LoggerTest][testDebug] debug message
+3-10-2011  0: 0 - [LoggerTest][testError] error message
+3-10-2011  0: 0 - [LoggerTest][testDebug] debug message
+3-10-2011  0: 3 - [LoggerTest][testError] error message
+3-10-2011  0: 3 - [LoggerTest][testDebug] debug message
+3-10-2011  0: 7 - [LoggerTest][testError] error message
+3-10-2011  0: 7 - [LoggerTest][testDebug] debug message
+3-10-2011  0: 8 - [LoggerTest][testError] error message
+3-10-2011  0: 8 - [LoggerTest][testDebug] debug message
+3-10-2011  0: 8 - [LoggerTest][testError] error message
+3-10-2011  0: 8 - [LoggerTest][testDebug] debug message
+3-10-2011  0:10 - [LoggerTest][testError] error message
+3-10-2011  0:10 - [LoggerTest][testDebug] debug message
+3-10-2011  0:12 - [LoggerTest][testError] error message
+3-10-2011  0:12 - [LoggerTest][testDebug] debug message
+3-10-2011  0:19 - [LoggerTest][testError] error message
+3-10-2011  0:19 - [LoggerTest][testDebug] debug message
+3-10-2011  0:23 - [LoggerTest][testError] error message
+3-10-2011  0:23 - [LoggerTest][testDebug] debug message
+3-10-2011  0:25 - [LoggerTest][testError] error message
+3-10-2011  0:25 - [LoggerTest][testDebug] debug message
+3-10-2011  0:28 - [LoggerTest][testError] error message
+3-10-2011  0:28 - [LoggerTest][testDebug] debug message
+3-10-2011  0:31 - [LoggerTest][testError] error message
+3-10-2011  0:31 - [LoggerTest][testDebug] debug message
+3-10-2011  0:33 - [LoggerTest][testError] error message
+3-10-2011  0:33 - [LoggerTest][testDebug] debug message
+3-10-2011  0:35 - [LoggerTest][testError] error message
+3-10-2011  0:35 - [LoggerTest][testDebug] debug message
+3-10-2011  0:36 - [LoggerTest][testError] error message
+3-10-2011  0:36 - [LoggerTest][testDebug] debug message
+3-10-2011  0:37 - [LoggerTest][testError] error message
+3-10-2011  0:37 - [LoggerTest][testDebug] debug message
+3-10-2011  0:39 - [LoggerTest][testError] error message
+3-10-2011  0:39 - [LoggerTest][testDebug] debug message
+3-10-2011  0:41 - [LoggerTest][testError] error message
+3-10-2011  0:41 - [LoggerTest][testDebug] debug message
+3-10-2011  0:45 - [LoggerTest][testError] error message
+3-10-2011  0:45 - [LoggerTest][testDebug] debug message
+3-10-2011  0:49 - [LoggerTest][testError] error message
+3-10-2011  0:49 - [LoggerTest][testDebug] debug message
+3-10-2011  0:49 - [LoggerTest][testError] error message
+3-10-2011  0:49 - [LoggerTest][testDebug] debug message
+3-10-2011  0:58 - [LoggerTest][testError] error message
+3-10-2011  0:58 - [LoggerTest][testDebug] debug message
+3-10-2011  1: 2 - [LoggerTest][testError] error message
+3-10-2011  1: 2 - [LoggerTest][testDebug] debug message
+3-10-2011  1:15 - [LoggerTest][testError] error message
+3-10-2011  1:15 - [LoggerTest][testDebug] debug message
+3-10-2011  1:21 - [LoggerTest][testError] error message
+3-10-2011  1:21 - [LoggerTest][testDebug] debug message
+3-10-2011  1:23 - [LoggerTest][testError] error message
+3-10-2011  1:23 - [LoggerTest][testDebug] debug message
+3-10-2011  1:24 - [LoggerTest][testError] error message
+3-10-2011  1:24 - [LoggerTest][testDebug] debug message
+3-10-2011  1:36 - [LoggerTest][testError] error message
+3-10-2011  1:36 - [LoggerTest][testDebug] debug message
+3-10-2011  1:39 - [LoggerTest][testError] error message
+3-10-2011  1:39 - [LoggerTest][testDebug] debug message
+4-10-2011 10:56 - [LoggerTest][testError] error message
+4-10-2011 10:56 - [LoggerTest][testDebug] debug message
+4-10-2011 14:48 - [LoggerTest][testError] error message
+4-10-2011 14:48 - [LoggerTest][testDebug] debug message
+4-10-2011 14:50 - [LoggerTest][testError] error message
+4-10-2011 14:50 - [LoggerTest][testDebug] debug message
+4-10-2011 14:55 - [LoggerTest][testError] error message
+4-10-2011 14:55 - [LoggerTest][testDebug] debug message
+4-10-2011 15: 1 - [LoggerTest][testError] error message
+4-10-2011 15: 1 - [LoggerTest][testDebug] debug message
+4-10-2011 15:25 - [LoggerTest][testError] error message
+4-10-2011 15:25 - [LoggerTest][testDebug] debug message
+4-10-2011 15:33 - [LoggerTest][testError] error message
+4-10-2011 15:33 - [LoggerTest][testDebug] debug message
+5-10-2011 21:47 - [LoggerTest][testError] error message
+5-10-2011 21:47 - [LoggerTest][testDebug] debug message
+5-10-2011 22:51 - [LoggerTest][testError] error message
+5-10-2011 22:51 - [LoggerTest][testDebug] debug message
+5-10-2011 22:56 - [LoggerTest][testError] error message
+5-10-2011 22:56 - [LoggerTest][testDebug] debug message
+5-10-2011 22:59 - [LoggerTest][testError] error message
+5-10-2011 22:59 - [LoggerTest][testDebug] debug message
+5-10-2011 23: 1 - [LoggerTest][testError] error message
+5-10-2011 23: 1 - [LoggerTest][testDebug] debug message
+5-10-2011 23: 6 - [LoggerTest][testError] error message
+5-10-2011 23: 6 - [LoggerTest][testDebug] debug message
+5-10-2011 23: 9 - [LoggerTest][testError] error message
+5-10-2011 23: 9 - [LoggerTest][testDebug] debug message
+5-10-2011 23:11 - [LoggerTest][testError] error message
+5-10-2011 23:11 - [LoggerTest][testDebug] debug message
+5-10-2011 23:13 - [LoggerTest][testError] error message
+5-10-2011 23:13 - [LoggerTest][testDebug] debug message
+5-10-2011 23:16 - [LoggerTest][testError] error message
+5-10-2011 23:16 - [LoggerTest][testDebug] debug message
+5-10-2011 23:18 - [LoggerTest][testError] error message
+5-10-2011 23:18 - [LoggerTest][testDebug] debug message
+7-10-2011 15:59 - [LoggerTest][testError] error message
+7-10-2011 15:59 - [LoggerTest][testDebug] debug message
+7-10-2011 16: 2 - [LoggerTest][testError] error message
+7-10-2011 16: 2 - [LoggerTest][testDebug] debug message
+8-10-2011 14:19 - [LoggerTest][testError] error message
+8-10-2011 14:19 - [LoggerTest][testDebug] debug message
+8-10-2011 14:20 - [LoggerTest][testError] error message
+8-10-2011 14:20 - [LoggerTest][testDebug] debug message
+8-10-2011 14:23 - [LoggerTest][testError] error message
+8-10-2011 14:23 - [LoggerTest][testDebug] debug message
+8-10-2011 14:26 - [LoggerTest][testError] error message
+8-10-2011 14:26 - [LoggerTest][testDebug] debug message
+8-10-2011 14:43 - [LoggerTest][testError] error message
+8-10-2011 14:43 - [LoggerTest][testDebug] debug message
+8-10-2011 14:46 - [LoggerTest][testError] error message
+8-10-2011 14:46 - [LoggerTest][testDebug] debug message
+8-10-2011 14:55 - [LoggerTest][testError] error message
+8-10-2011 14:55 - [LoggerTest][testDebug] debug message
+8-10-2011 14:59 - [LoggerTest][testError] error message
+8-10-2011 14:59 - [LoggerTest][testDebug] debug message
+8-10-2011 15: 0 - [LoggerTest][testError] error message
+8-10-2011 15: 0 - [LoggerTest][testDebug] debug message
+8-10-2011 15: 5 - [LoggerTest][testError] error message
+8-10-2011 15: 5 - [LoggerTest][testDebug] debug message
+8-10-2011 15:13 - [LoggerTest][testError] error message
+8-10-2011 15:13 - [LoggerTest][testDebug] debug message
+8-10-2011 15:14 - [LoggerTest][testError] error message
+8-10-2011 15:14 - [LoggerTest][testDebug] debug message
+8-10-2011 19:36 - [LoggerTest][testError] error message
+8-10-2011 19:36 - [LoggerTest][testDebug] debug message
+8-10-2011 20:43 - [LoggerTest][testError] error message
+8-10-2011 20:43 - [LoggerTest][testDebug] debug message
+10-10-2011  1:34 - [LoggerTest][testError] error message
+10-10-2011  1:34 - [LoggerTest][testDebug] debug message
+10-10-2011  8: 9 - [LoggerTest][testError] error message
+10-10-2011  8: 9 - [LoggerTest][testDebug] debug message
+10-10-2011  8:11 - [LoggerTest][testError] error message
+10-10-2011  8:11 - [LoggerTest][testDebug] debug message
+10-10-2011  8:12 - [LoggerTest][testError] error message
+10-10-2011  8:12 - [LoggerTest][testDebug] debug message
+11-10-2011 21:20 - [LoggerTest][testError] error message
+11-10-2011 21:20 - [LoggerTest][testDebug] debug message
+11-10-2011 21:22 - [LoggerTest][testError] error message
+11-10-2011 21:22 - [LoggerTest][testDebug] debug message
+11-10-2011 21:23 - [LoggerTest][testError] error message
+11-10-2011 21:23 - [LoggerTest][testDebug] debug message
+11-10-2011 21:52 - [LoggerTest][testError] error message
+11-10-2011 21:52 - [LoggerTest][testDebug] debug message
+11-10-2011 23:18 - [LoggerTest][testError] error message
+11-10-2011 23:18 - [LoggerTest][testDebug] debug message
+12-10-2011  1:11 - [LoggerTest][testError] error message
+12-10-2011  1:11 - [LoggerTest][testDebug] debug message
+12-10-2011  1:28 - [LoggerTest][testError] error message
+12-10-2011  1:28 - [LoggerTest][testDebug] debug message
+12-10-2011  2:28 - [LoggerTest][testError] error message
+12-10-2011  2:28 - [LoggerTest][testDebug] debug message
+12-10-2011  2:31 - [LoggerTest][testError] error message
+12-10-2011  2:31 - [LoggerTest][testDebug] debug message
+12-10-2011 10:11 - [LoggerTest][testError] error message
+12-10-2011 10:11 - [LoggerTest][testDebug] debug message
+12-10-2011 10:20 - [LoggerTest][testError] error message
+12-10-2011 10:20 - [LoggerTest][testDebug] debug message
+12-10-2011 20: 6 - [LoggerTest][testError] error message
+12-10-2011 20: 6 - [LoggerTest][testDebug] debug message
+12-10-2011 20:16 - [LoggerTest][testError] error message
+12-10-2011 20:16 - [LoggerTest][testDebug] debug message
+12-10-2011 20:59 - [LoggerTest][testError] error message
+12-10-2011 20:59 - [LoggerTest][testDebug] debug message
+12-10-2011 21:19 - [LoggerTest][testError] error message
+12-10-2011 21:19 - [LoggerTest][testDebug] debug message
+12-10-2011 21:41 - [LoggerTest][testError] error message
+12-10-2011 21:41 - [LoggerTest][testDebug] debug message
+12-10-2011 21:48 - [LoggerTest][testError] error message
+12-10-2011 21:48 - [LoggerTest][testDebug] debug message
+12-10-2011 22:12 - [LoggerTest][testError] error message
+12-10-2011 22:12 - [LoggerTest][testDebug] debug message
+12-10-2011 22:45 - [LoggerTest][testError] error message
+12-10-2011 22:45 - [LoggerTest][testDebug] debug message
+14-10-2011 20:14 - [LoggerTest][testError] error message
+14-10-2011 20:14 - [LoggerTest][testDebug] debug message
+14-10-2011 20:27 - [LoggerTest][testError] error message
+14-10-2011 20:27 - [LoggerTest][testDebug] debug message
+14-10-2011 20:33 - [LoggerTest][testError] error message
+14-10-2011 20:33 - [LoggerTest][testDebug] debug message
+14-10-2011 20:34 - [LoggerTest][testError] error message
+14-10-2011 20:34 - [LoggerTest][testDebug] debug message
+14-10-2011 20:36 - [LoggerTest][testError] error message
+14-10-2011 20:36 - [LoggerTest][testDebug] debug message
+14-10-2011 20:40 - [LoggerTest][testError] error message
+14-10-2011 20:40 - [LoggerTest][testDebug] debug message
+14-10-2011 20:41 - [LoggerTest][testError] error message
+14-10-2011 20:41 - [LoggerTest][testDebug] debug message
+14-10-2011 20:42 - [LoggerTest][testError] error message
+14-10-2011 20:42 - [LoggerTest][testDebug] debug message
+14-10-2011 20:50 - [LoggerTest][testError] error message
+14-10-2011 20:50 - [LoggerTest][testDebug] debug message
+14-10-2011 20:51 - [LoggerTest][testError] error message
+14-10-2011 20:51 - [LoggerTest][testDebug] debug message
+15-10-2011  0:49 - [LoggerTest][testError] error message
+15-10-2011  0:49 - [LoggerTest][testDebug] debug message
+15-10-2011  1: 1 - [LoggerTest][testError] error message
+15-10-2011  1: 1 - [LoggerTest][testDebug] debug message
+15-10-2011  1:20 - [LoggerTest][testError] error message
+15-10-2011  1:20 - [LoggerTest][testDebug] debug message
+15-10-2011  1:26 - [LoggerTest][testError] error message
+15-10-2011  1:26 - [LoggerTest][testDebug] debug message
+15-10-2011 14:17 - [LoggerTest][testError] error message
+15-10-2011 14:17 - [LoggerTest][testDebug] debug message
+15-10-2011 15:23 - [LoggerTest][testError] error message
+15-10-2011 15:23 - [LoggerTest][testDebug] debug message
+15-10-2011 15:25 - [LoggerTest][testError] error message
+15-10-2011 15:25 - [LoggerTest][testDebug] debug message
+15-10-2011 15:29 - [LoggerTest][testError] error message
+15-10-2011 15:29 - [LoggerTest][testDebug] debug message
+15-10-2011 15:31 - [LoggerTest][testError] error message
+15-10-2011 15:31 - [LoggerTest][testDebug] debug message
+15-10-2011 15:32 - [LoggerTest][testError] error message
+15-10-2011 15:32 - [LoggerTest][testDebug] debug message
+15-10-2011 15:34 - [LoggerTest][testError] error message
+15-10-2011 15:34 - [LoggerTest][testDebug] debug message
+15-10-2011 15:39 - [LoggerTest][testError] error message
+15-10-2011 15:39 - [LoggerTest][testDebug] debug message
+15-10-2011 15:39 - [LoggerTest][testError] error message
+15-10-2011 15:39 - [LoggerTest][testDebug] debug message
+15-10-2011 15:40 - [LoggerTest][testError] error message
+15-10-2011 15:40 - [LoggerTest][testDebug] debug message
+15-10-2011 15:42 - [LoggerTest][testError] error message
+15-10-2011 15:42 - [LoggerTest][testDebug] debug message
+15-10-2011 15:44 - [LoggerTest][testError] error message
+15-10-2011 15:44 - [LoggerTest][testDebug] debug message
+15-10-2011 15:45 - [LoggerTest][testError] error message
+15-10-2011 15:45 - [LoggerTest][testDebug] debug message
+15-10-2011 15:46 - [LoggerTest][testError] error message
+15-10-2011 15:46 - [LoggerTest][testDebug] debug message
+15-10-2011 15:47 - [LoggerTest][testError] error message
+15-10-2011 15:47 - [LoggerTest][testDebug] debug message
+15-10-2011 15:49 - [LoggerTest][testError] error message
+15-10-2011 15:49 - [LoggerTest][testDebug] debug message
+15-10-2011 15:50 - [LoggerTest][testError] error message
+15-10-2011 15:50 - [LoggerTest][testDebug] debug message
+15-10-2011 15:52 - [LoggerTest][testError] error message
+15-10-2011 15:52 - [LoggerTest][testDebug] debug message
+15-10-2011 15:53 - [LoggerTest][testError] error message
+15-10-2011 15:53 - [LoggerTest][testDebug] debug message
+15-10-2011 15:54 - [LoggerTest][testError] error message
+15-10-2011 15:54 - [LoggerTest][testDebug] debug message
+15-10-2011 15:55 - [LoggerTest][testError] error message
+15-10-2011 15:55 - [LoggerTest][testDebug] debug message
+15-10-2011 15:58 - [LoggerTest][testError] error message
+15-10-2011 15:58 - [LoggerTest][testDebug] debug message
+15-10-2011 16: 0 - [LoggerTest][testError] error message
+15-10-2011 16: 0 - [LoggerTest][testDebug] debug message
+15-10-2011 16: 0 - [LoggerTest][testError] error message
+15-10-2011 16: 0 - [LoggerTest][testDebug] debug message
+15-10-2011 16: 2 - [LoggerTest][testError] error message
+15-10-2011 16: 2 - [LoggerTest][testDebug] debug message
+15-10-2011 16: 3 - [LoggerTest][testError] error message
+15-10-2011 16: 3 - [LoggerTest][testDebug] debug message
+15-10-2011 16: 6 - [LoggerTest][testError] error message
+15-10-2011 16: 6 - [LoggerTest][testDebug] debug message
+15-10-2011 16: 7 - [LoggerTest][testError] error message
+15-10-2011 16: 7 - [LoggerTest][testDebug] debug message
+15-10-2011 16: 8 - [LoggerTest][testError] error message
+15-10-2011 16: 8 - [LoggerTest][testDebug] debug message
+15-10-2011 16:10 - [LoggerTest][testError] error message
+15-10-2011 16:10 - [LoggerTest][testDebug] debug message
+15-10-2011 16:18 - [LoggerTest][testError] error message
+15-10-2011 16:18 - [LoggerTest][testDebug] debug message
+15-10-2011 16:20 - [LoggerTest][testError] error message
+15-10-2011 16:20 - [LoggerTest][testDebug] debug message
+15-10-2011 16:20 - [LoggerTest][testError] error message
+15-10-2011 16:20 - [LoggerTest][testDebug] debug message
+15-10-2011 16:22 - [LoggerTest][testError] error message
+15-10-2011 16:22 - [LoggerTest][testDebug] debug message
+15-10-2011 16:30 - [LoggerTest][testError] error message
+15-10-2011 16:30 - [LoggerTest][testDebug] debug message
+15-10-2011 16:34 - [LoggerTest][testError] error message
+15-10-2011 16:34 - [LoggerTest][testDebug] debug message
+15-10-2011 16:37 - [LoggerTest][testError] error message
+15-10-2011 16:37 - [LoggerTest][testDebug] debug message
+15-10-2011 16:40 - [LoggerTest][testError] error message
+15-10-2011 16:40 - [LoggerTest][testDebug] debug message
+15-10-2011 16:41 - [LoggerTest][testError] error message
+15-10-2011 16:41 - [LoggerTest][testDebug] debug message
+15-10-2011 16:46 - [LoggerTest][testError] error message
+15-10-2011 16:46 - [LoggerTest][testDebug] debug message
+15-10-2011 16:47 - [LoggerTest][testError] error message
+15-10-2011 16:47 - [LoggerTest][testDebug] debug message
+15-10-2011 17:16 - [LoggerTest][testError] error message
+15-10-2011 17:16 - [LoggerTest][testDebug] debug message
+15-10-2011 18: 1 - [LoggerTest][testError] error message
+15-10-2011 18: 1 - [LoggerTest][testDebug] debug message
+15-10-2011 18: 7 - [LoggerTest][testError] error message
+15-10-2011 18: 7 - [LoggerTest][testDebug] debug message
+15-10-2011 18:13 - [LoggerTest][testError] error message
+15-10-2011 18:13 - [LoggerTest][testDebug] debug message
+15-10-2011 18:21 - [LoggerTest][testError] error message
+15-10-2011 18:21 - [LoggerTest][testDebug] debug message
+15-10-2011 18:29 - [LoggerTest][testError] error message
+15-10-2011 18:29 - [LoggerTest][testDebug] debug message
+15-10-2011 22:50 - [LoggerTest][testError] error message
+15-10-2011 22:50 - [LoggerTest][testDebug] debug message
+15-10-2011 23: 0 - [LoggerTest][testError] error message
+15-10-2011 23: 0 - [LoggerTest][testDebug] debug message
+15-10-2011 23: 1 - [LoggerTest][testError] error message
+15-10-2011 23: 1 - [LoggerTest][testDebug] debug message
+16-10-2011  0:16 - [LoggerTest][testError] error message
+16-10-2011  0:16 - [LoggerTest][testDebug] debug message
+16-10-2011  0:18 - [LoggerTest][testError] error message
+16-10-2011  0:18 - [LoggerTest][testDebug] debug message
+16-10-2011  0:28 - [LoggerTest][testError] error message
+16-10-2011  0:28 - [LoggerTest][testDebug] debug message
+16-10-2011  0:45 - [LoggerTest][testError] error message
+16-10-2011  0:45 - [LoggerTest][testDebug] debug message
+16-10-2011  0:47 - [LoggerTest][testError] error message
+16-10-2011  0:47 - [LoggerTest][testDebug] debug message
+16-10-2011  0:54 - [LoggerTest][testError] error message
+16-10-2011  0:54 - [LoggerTest][testDebug] debug message
+16-10-2011  0:55 - [LoggerTest][testError] error message
+16-10-2011  0:55 - [LoggerTest][testDebug] debug message
+16-10-2011  0:57 - [LoggerTest][testError] error message
+16-10-2011  0:57 - [LoggerTest][testDebug] debug message
+16-10-2011  0:59 - [LoggerTest][testError] error message
+16-10-2011  0:59 - [LoggerTest][testDebug] debug message
+16-10-2011  1: 0 - [LoggerTest][testError] error message
+16-10-2011  1: 0 - [LoggerTest][testDebug] debug message
+16-10-2011  1: 2 - [LoggerTest][testError] error message
+16-10-2011  1: 2 - [LoggerTest][testDebug] debug message
+16-10-2011  1: 3 - [LoggerTest][testError] error message
+16-10-2011  1: 3 - [LoggerTest][testDebug] debug message
+16-10-2011  1: 4 - [LoggerTest][testError] error message
+16-10-2011  1: 4 - [LoggerTest][testDebug] debug message
+16-10-2011  1:10 - [LoggerTest][testError] error message
+16-10-2011  1:10 - [LoggerTest][testDebug] debug message
+16-10-2011  1:14 - [LoggerTest][testError] error message
+16-10-2011  1:14 - [LoggerTest][testDebug] debug message
+16-10-2011  1:15 - [LoggerTest][testError] error message
+16-10-2011  1:15 - [LoggerTest][testDebug] debug message
+16-10-2011  1:17 - [LoggerTest][testError] error message
+16-10-2011  1:17 - [LoggerTest][testDebug] debug message
+16-10-2011  2:33 - [LoggerTest][testError] error message
+16-10-2011  2:33 - [LoggerTest][testDebug] debug message
+16-10-2011  2:36 - [LoggerTest][testError] error message
+16-10-2011  2:36 - [LoggerTest][testDebug] debug message
+16-10-2011  2:38 - [LoggerTest][testError] error message
+16-10-2011  2:38 - [LoggerTest][testDebug] debug message
+16-10-2011  2:58 - [LoggerTest][testError] error message
+16-10-2011  2:58 - [LoggerTest][testDebug] debug message
+16-10-2011  3: 1 - [LoggerTest][testError] error message
+16-10-2011  3: 1 - [LoggerTest][testDebug] debug message
+16-10-2011  3: 5 - [LoggerTest][testError] error message
+16-10-2011  3: 5 - [LoggerTest][testDebug] debug message
+16-10-2011  3: 5 - [LoggerTest][testError] error message
+16-10-2011  3: 5 - [LoggerTest][testDebug] debug message
+16-10-2011  3:15 - [LoggerTest][testError] error message
+16-10-2011  3:15 - [LoggerTest][testDebug] debug message
+16-10-2011  3:18 - [LoggerTest][testError] error message
+16-10-2011  3:18 - [LoggerTest][testDebug] debug message
+16-10-2011  3:20 - [LoggerTest][testError] error message
+16-10-2011  3:20 - [LoggerTest][testDebug] debug message
+16-10-2011  3:21 - [LoggerTest][testError] error message
+16-10-2011  3:21 - [LoggerTest][testDebug] debug message
+16-10-2011  3:21 - [LoggerTest][testError] error message
+16-10-2011  3:21 - [LoggerTest][testDebug] debug message
+16-10-2011  3:23 - [LoggerTest][testError] error message
+16-10-2011  3:23 - [LoggerTest][testDebug] debug message
+16-10-2011  3:25 - [LoggerTest][testError] error message
+16-10-2011  3:25 - [LoggerTest][testDebug] debug message
+16-10-2011  3:27 - [LoggerTest][testError] error message
+16-10-2011  3:27 - [LoggerTest][testDebug] debug message
+16-10-2011 15:42 - [LoggerTest][testError] error message
+16-10-2011 15:42 - [LoggerTest][testDebug] debug message
+16-10-2011 16: 8 - [LoggerTest][testError] error message
+16-10-2011 16: 8 - [LoggerTest][testDebug] debug message
+16-10-2011 16:18 - [LoggerTest][testError] error message
+16-10-2011 16:18 - [LoggerTest][testDebug] debug message
+16-10-2011 16:45 - [LoggerTest][testError] error message
+16-10-2011 16:45 - [LoggerTest][testDebug] debug message
+23-10-2011 16:34 - [LoggerTest][testError] error message
+23-10-2011 16:34 - [LoggerTest][testDebug] debug message
+23-10-2011 16:38 - [LoggerTest][testError] error message
+23-10-2011 16:38 - [LoggerTest][testDebug] debug message
+23-10-2011 17: 9 - [LoggerTest][testError] error message
+23-10-2011 17: 9 - [LoggerTest][testDebug] debug message
+23-10-2011 17:41 - [LoggerTest][testError] error message
+23-10-2011 17:41 - [LoggerTest][testDebug] debug message
+23-10-2011 20: 4 - [LoggerTest][testError] error message
+23-10-2011 20: 4 - [LoggerTest][testDebug] debug message
+23-10-2011 20:12 - [LoggerTest][testError] error message
+23-10-2011 20:12 - [LoggerTest][testDebug] debug message
+23-10-2011 20:39 - [LoggerTest][testError] error message
+23-10-2011 20:39 - [LoggerTest][testDebug] debug message
+23-10-2011 20:40 - [LoggerTest][testError] error message
+23-10-2011 20:40 - [LoggerTest][testDebug] debug message
+23-10-2011 20:41 - [LoggerTest][testError] error message
+23-10-2011 20:41 - [LoggerTest][testDebug] debug message
+23-10-2011 20:41 - [LoggerTest][testError] error message
+23-10-2011 20:41 - [LoggerTest][testDebug] debug message
+23-10-2011 20:43 - [LoggerTest][testError] error message
+23-10-2011 20:43 - [LoggerTest][testDebug] debug message
+23-10-2011 20:44 - [LoggerTest][testError] error message
+23-10-2011 20:44 - [LoggerTest][testDebug] debug message
+23-10-2011 20:49 - [LoggerTest][testError] error message
+23-10-2011 20:49 - [LoggerTest][testDebug] debug message
+23-10-2011 20:54 - [LoggerTest][testError] error message
+23-10-2011 20:54 - [LoggerTest][testDebug] debug message
+23-10-2011 20:55 - [LoggerTest][testError] error message
+23-10-2011 20:55 - [LoggerTest][testDebug] debug message
+23-10-2011 20:55 - [LoggerTest][testError] error message
+23-10-2011 20:55 - [LoggerTest][testDebug] debug message
+23-10-2011 20:56 - [LoggerTest][testError] error message
+23-10-2011 20:56 - [LoggerTest][testDebug] debug message
+23-10-2011 20:56 - [LoggerTest][testError] error message
+23-10-2011 20:56 - [LoggerTest][testDebug] debug message
+23-10-2011 21:15 - [LoggerTest][testError] error message
+23-10-2011 21:15 - [LoggerTest][testDebug] debug message
+23-10-2011 21:21 - [LoggerTest][testError] error message
+23-10-2011 21:21 - [LoggerTest][testDebug] debug message
+23-10-2011 21:23 - [LoggerTest][testError] error message
+23-10-2011 21:23 - [LoggerTest][testDebug] debug message
+23-10-2011 21:24 - [LoggerTest][testError] error message
+23-10-2011 21:24 - [LoggerTest][testDebug] debug message
+23-10-2011 21:25 - [LoggerTest][testError] error message
+23-10-2011 21:25 - [LoggerTest][testDebug] debug message
+23-10-2011 21:32 - [LoggerTest][testError] error message
+23-10-2011 21:32 - [LoggerTest][testDebug] debug message
+25-10-2011 16: 0 - [LoggerTest][testError] error message
+25-10-2011 16: 0 - [LoggerTest][testDebug] debug message
+25-10-2011 18:34 - [LoggerTest][testError] error message
+25-10-2011 18:34 - [LoggerTest][testDebug] debug message
+25-10-2011 19:36 - [LoggerTest][testError] error message
+25-10-2011 19:36 - [LoggerTest][testDebug] debug message
+25-10-2011 19:41 - [LoggerTest][testError] error message
+25-10-2011 19:41 - [LoggerTest][testDebug] debug message
+25-10-2011 19:54 - [LoggerTest][testError] error message
+25-10-2011 19:54 - [LoggerTest][testDebug] debug message
+25-10-2011 19:56 - [LoggerTest][testError] error message
+25-10-2011 19:56 - [LoggerTest][testDebug] debug message
+25-10-2011 19:58 - [LoggerTest][testError] error message
+25-10-2011 19:58 - [LoggerTest][testDebug] debug message
+25-10-2011 20: 0 - [LoggerTest][testError] error message
+25-10-2011 20: 0 - [LoggerTest][testDebug] debug message
+25-10-2011 20: 1 - [LoggerTest][testError] error message
+25-10-2011 20: 1 - [LoggerTest][testDebug] debug message
+25-10-2011 20:11 - [LoggerTest][testError] error message
+25-10-2011 20:11 - [LoggerTest][testDebug] debug message
+25-10-2011 20:38 - [LoggerTest][testError] error message
+25-10-2011 20:38 - [LoggerTest][testDebug] debug message
+25-10-2011 20:40 - [LoggerTest][testError] error message
+25-10-2011 20:40 - [LoggerTest][testDebug] debug message
+25-10-2011 20:45 - [LoggerTest][testError] error message
+25-10-2011 20:45 - [LoggerTest][testDebug] debug message
+25-10-2011 20:46 - [LoggerTest][testError] error message
+25-10-2011 20:46 - [LoggerTest][testDebug] debug message
+25-10-2011 20:47 - [LoggerTest][testError] error message
+25-10-2011 20:47 - [LoggerTest][testDebug] debug message
+25-10-2011 20:47 - [LoggerTest][testError] error message
+25-10-2011 20:47 - [LoggerTest][testDebug] debug message
+25-10-2011 20:48 - [LoggerTest][testError] error message
+25-10-2011 20:48 - [LoggerTest][testDebug] debug message
+26-10-2011  0: 9 - [LoggerTest][testError] error message
+26-10-2011  0: 9 - [LoggerTest][testDebug] debug message

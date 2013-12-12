@@ -1,0 +1,16 @@
+2-11-2011  9:46 [LoggerTest][testDebug] debug message
+2-11-2011  9:47 [AddCommand][constructCommand] isFormalFormat_: false
+2-11-2011  9:47 [AddCommand][run] addSuccessful: true
+2-11-2011  9:47 [AddCommand][run] isBlocked: false
+2-11-2011  9:51 [AddCommand][constructCommand] isFormalFormat_: false
+2-11-2011  9:51 [AddCommand][run] addSuccessful: true
+2-11-2011  9:51 [AddCommand][run] isBlocked: false
+2-11-2011  9:52 [AddCommand][constructCommand] isFormalFormat_: false
+2-11-2011  9:52 [AddCommand][run] addSuccessful: true
+2-11-2011  9:52 [AddCommand][run] isBlocked: false
+2-11-2011  9:54 [EditCommand][constructCommand] isFormalFormat_: true
+2-11-2011  9:54 [EditCommand][parseFormalInput] formalInputArray_[1]: sf today
+2-11-2011  9:54 [EditCommand][run] isBlocked: false
+2-11-2011 10: 3 [AddCommand][constructCommand] isFormalFormat_: false
+2-11-2011 10: 3 [AddCommand][run] addSuccessful: true
+2-11-2011 10: 3 [AddCommand][run] isBlocked: false

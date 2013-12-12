@@ -1,0 +1,18 @@
+Testsuite: com.blogspot.the3cube.beefree.test.ExportCommandTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.018 sec
+------------- Standard Output ---------------
+to
+file file1.txt
+to gcal
+with user1:pass1
+-
+to
+file file1.txt
+-
+to
+gdocs [BeeFree] Tasks
+with user1:pass1
+-
+------------- ---------------- ---------------
+
+Testcase: naturalLanguageTest took 0.006 sec

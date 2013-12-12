@@ -1,0 +1,4 @@
+Testsuite: com.blogspot.the3cube.beefree.test.CompleteCommandTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.341 sec
+
+Testcase: test took 0.326 sec
